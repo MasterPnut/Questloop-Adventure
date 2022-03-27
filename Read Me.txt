@@ -1,0 +1,46 @@
+Questloop Adventure
+
+Created by Ryne Bigueras
+
+This project can show simple coding but have a complex looking outcome.
+It shows basic codes and functions that can be broken down and taught to people that
+want to learn how to read and wrtite codes.
+
+renaming statments
+input() statments
+print() statments
+=, ==, operators
+import random
+random.randint
+if, else statments
+def funtions
+
+are statments and operators that are used in this program.
+It is simple enough and doesn't use complex coding The end of the game
+is really not an end but a loop. As the future expands in this game, you are to
+keep questing until you reach a character level. Until then you the game will
+keep looping chapter 5 and depending on your health do different quests.
+Manually terminate the program to end it.
+
+This code is hosted on https://github.com/MasterPnut/Questloop-Adventure
+
+Using the program python and IDLE to edit codes.
+
+Places where to learn what scripts, functions, operators work and how to use them.
+Runestone.academy
+GeeksforGeeks.org
+w3chools.com
+
+Install python from 
+www.python.org
+use the installer that corresponds with your OS.
+
+Download the Questloop Adventure from Github
+Locate file
+And double click it. Python program should regocnize and run it.
+
+To see how the code looks and/or edit it
+Python should have installed IDLE as well.
+Open IDLE and on the top File/Open/file location.
+Here it will open it as a file that can be edited.
+
